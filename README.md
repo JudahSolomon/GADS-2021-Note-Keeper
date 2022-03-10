@@ -1,6 +1,6 @@
 # Book-Keeper-GADS-2021
 
-A rewritten version of the Book Keeper project of the  Android: Room Fundamentals course on ```pluralsight```
+An Update version of the Book Keeper project with kotlin
 
 This GADS21 repo  contains updated ```dependencies```,```components``` and ```Functions``` from the course creation as of 2021 September
 
@@ -21,6 +21,16 @@ This GADS21 repo  contains updated ```dependencies```,```components``` and ```Fu
 ### Screenshot of the final app:
 
 <img src="screenshot/book.PNG" width="200"/> <img src="screenshot/search.PNG" width="200"/> <img src="screenshot/custom.PNG" width="200"/>
+
+## how to run the App
+Either forke or download the zip file of the project to your computer,
+extract it then open it in Android Studio, or better still you can import Project from VCS in Android Studio
+
+## How to add a Note
+1. Lunch the App
+2. Enter the Title of the Note followed by the Author
+3. click on the save button
+4. incase you  want to edit the title and the author of the note click on the pen icon to eneble you do that, after editing click on save to save the changes
 
 
     
