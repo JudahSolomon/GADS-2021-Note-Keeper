@@ -31,6 +31,7 @@ extract it then open it in Android Studio, or better still you can import Projec
 2. Enter the Title of the Note followed by the Author
 3. click on the save button
 4. incase you  want to edit the title and the author of the note click on the pen icon to eneble you do that, after editing click on save to save the changes
+5. incase you want to delete any note, click on the note, select the delete ico, then confirm to delete
 
 
     
